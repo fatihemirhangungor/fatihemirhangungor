@@ -1,12 +1,5 @@
 ### Hi there, I'm [Emirhan!](https://fatihemirhangungor.github.io) 👋
 
-<a href="https://www.linkedin.com/in/fatihemirhangungor/">
-  <img align="left" alt="Fatih Emirhan Güngör | LinkedIn" width="40px" src="https://marka-logo.com/wp-content/uploads/2020/04/Linkedin-Logo.png" />
-</a>
-<a href="https://www.instagram.com/fatihemirhangungor/">
-  <img align="left" alt="Fatih's Instagram" width="40px" src="https://www.freepnglogos.com/uploads/pics-photos-instagram-logo-png-4.png" />
-</a>
-
 <br />
 <br />
 
@@ -14,6 +7,16 @@ Hi, I'm Fatih Emirhan Güngör, a software engineering student from Turkey.
 
 - 🔭 I’m currently in third grade.
 - 🌱 I’m currently learning Unity & Azure Cloud Technologies.
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem.sapostor123.vercel.app/api/spotify" alt="Emirhan's Spotify Playing" width="350" />](https://open.spotify.com/user/sapostor123)
+
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="auravain | LinkedIn" width="40px" />](https://www.linkedin.com/in/fatihemirhangungor/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="auravain | Twitter" width="40px" />](https://twitter.com/fatihangungor)
+
+<br />
+
 
 **Languages and Tools:**  
 
