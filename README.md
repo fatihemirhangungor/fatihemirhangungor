@@ -12,9 +12,12 @@ Hi, I'm Fatih Emirhan Güngör, a software engineering student from Turkey.
 
 [<img src="https://novatorem.sapostor123.vercel.app/api/spotify" alt="Emirhan's Spotify Playing" width="350" />](https://open.spotify.com/user/sapostor123)
 
+### Connect with me:
+
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="auravain | LinkedIn" width="40px" />](https://www.linkedin.com/in/fatihemirhangungor/)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="auravain | Twitter" width="40px" />](https://twitter.com/fatihangungor)
 
+<br />
 <br />
 
 
