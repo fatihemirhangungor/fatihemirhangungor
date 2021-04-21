@@ -8,9 +8,6 @@ Hi, I'm Fatih Emirhan Güngör, a software engineering student from Turkey.
 - 🔭 I’m currently in third grade.
 - 🌱 I’m currently learning Unity & Azure Cloud Technologies.
 
-### Spotify Playing 🎧
-
-![spotify-github-profile](/img/example.svg)
 
 ### Connect with me:
 
