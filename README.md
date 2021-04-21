@@ -10,7 +10,7 @@ Hi, I'm Fatih Emirhan Güngör, a software engineering student from Turkey.
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.sapostor123.vercel.app/api/spotify" alt="Auravain Spotify Playing" width="350" />](https://open.spotify.com/user/sapostor123)
+![spotify-github-profile](/img/example.svg)
 
 ### Connect with me:
 
