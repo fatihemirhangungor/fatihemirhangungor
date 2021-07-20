@@ -1,7 +1,6 @@
 ### Hi there, I'm [Emirhan!](https://fatihemirhangungor.github.io) 👋
 
 <br />
-<br />
 
 Hi, I'm Fatih Emirhan Güngör, a software engineering student from Turkey.
 
