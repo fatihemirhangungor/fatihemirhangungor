@@ -5,7 +5,7 @@
 
 Hi, I'm Fatih Emirhan Güngör, a software engineering student from Turkey.
 
-- 🔭 I’m currently in third grade.
+- 🔭 I’m currently in third grade at [Uskudar University](https://uskudar.edu.tr/).
 - 🌱 I’m currently learning Unity & Azure Cloud Technologies.
 
 
