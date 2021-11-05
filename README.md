@@ -1,8 +1,10 @@
 ### Hi there, I'm [Emirhan!](https://fatihemirhangungor.github.io) 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-fatihemirhangungor)
 <br />
 
 Hi, I'm Fatih Emirhan Güngör, a senior software engineering student from Turkey.
+
 <!--
 - 🔭 I’m currently in third grade at [Uskudar University](https://uskudar.edu.tr/).
 -->
