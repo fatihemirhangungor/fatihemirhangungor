@@ -1,6 +1,6 @@
-### Hi there, I'm [Emirhan!](https://fatihemirhangungor.github.io) 👋
-
 ![](https://komarev.com/ghpvc/?username=your-github-fatihemirhangungor)
+### Hi there, I'm [Emirhan!](https://fatihemirhangungor.github.io) 👋  
+
 <br />
 
 Hi, I'm Fatih Emirhan Güngör, a senior software engineering student from Turkey.
