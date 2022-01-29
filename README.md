@@ -15,7 +15,7 @@ A fourth grade software engineering student from Turkey.
 
 ### Connect with me:
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="auravain | LinkedIn" width="40px" />](https://www.linkedin.com/in/fatihemirhangungor/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="fatihemirhangungor | LinkedIn" width="40px" />](https://www.linkedin.com/in/fatihemirhangungor/)
 
 <br />
 <br />
