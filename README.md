@@ -10,7 +10,12 @@
       〰 NFT  
       〰 Game Industry
  
- - 🔭 Most of my work is in private.
+ - 🔭 Most of my work is in private.  
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem.lovelysmilee.vercel.app/api/spotify" alt="Fatih Spotify Playing" width="400" />](https://open.spotify.com/user/11147266714)
+
 
 
 ### Connect with me:
