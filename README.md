@@ -9,6 +9,7 @@ A senior software engineering student from Turkey.
 - 🔭 I’m currently in third grade at [Uskudar University](https://uskudar.edu.tr/).
 -->
 - 🌱 I’m currently learning Unity & Azure Cloud Technologies.
+- 🔭 Most of my work is in private.
 
 
 ### Connect with me:
