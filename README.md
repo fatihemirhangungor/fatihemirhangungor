@@ -5,9 +5,10 @@
 
 A fourth grade software engineering student from Turkey.
 
-<!--
-- 🔭 I’m currently in third grade at [Uskudar University](https://uskudar.edu.tr/).
--->
+- I am working on;  
+    〰 Blockchain  
+    〰 NFT  
+    〰 Game Industry  
 - 🌱 I’m currently learning Unity & Azure Cloud Technologies.
 - 🔭 Most of my work is in private.
 
@@ -15,7 +16,8 @@ A fourth grade software engineering student from Turkey.
 ### Connect with me:
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="auravain | LinkedIn" width="40px" />](https://www.linkedin.com/in/fatihemirhangungor/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="auravain | Twitter" width="40px" />](https://twitter.com/fatihangungor)
+<!---[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="auravain | Twitter" width="40px" />]
+(https://twitter.com/fatihangungor)--->
 
 <br />
 <br />
