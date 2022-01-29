@@ -3,7 +3,7 @@
 
 <br />
 
-A senior software engineering student from Turkey.
+A fourth grade software engineering student from Turkey.
 
 <!--
 - 🔭 I’m currently in third grade at [Uskudar University](https://uskudar.edu.tr/).
