@@ -8,6 +8,7 @@
   
       〰 Blockchain  
       〰 NFT  
+      〰 Metaverse  
       〰 Game Industry
  
  - 🔭 Most of my work is in private.  
