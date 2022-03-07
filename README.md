@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fatihemirhangungor.fatihemirhangungor)
 <br />
 
-<a href="https://fatihemirhangungor.github.io/">Check my website!</a>
+<a href="https://fatihemirhangungor.github.io/" target="_blank">Check my website!</a>
 ## A fourth grade software engineering student from Turkey.
 
 - 🥅 I am working on;  
