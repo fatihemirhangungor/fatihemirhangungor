@@ -7,11 +7,16 @@
 
 - 🥅 I am working on;  
   
-      〰 Blockchain  
-      〰 NFT  
-      〰 Metaverse  
-      〰 Game Industry
- 
+      〰 Node.js  
+      〰 ASP .Net Core  
+      〰 Azure  
+ - 🥅 I am interested in;  
+  
+      〰 Blockchain   
+      〰 NFT   
+      〰 Metaverse   
+      〰 Game Industry   
+      
  - 🔭 Most of my work is in private.  
 
 ### Spotify Playing 🎧
