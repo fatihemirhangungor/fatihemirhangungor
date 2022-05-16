@@ -5,7 +5,7 @@
 <a href="https://fatihemirhangungor.github.io/" target="_blank">Check my website!</a>
 ## A fourth grade software engineering student from Turkey.
 
-- 🥅 I am working on;  
+- 🥅 I am working with;  
   
       〰 Node.js  
       〰 ASP .Net Core  
