@@ -6,17 +6,18 @@
 ## A fourth grade software engineering student from Turkey.
 
 - 🥅 I am working with;  
-  
+  ```
       〰 Node.js  
       〰 ASP .Net Core  
       〰 Azure  
- - 🥅 I am interested in;  
-  
-      〰 Blockchain   
+  ```    
+ - 🥅 I am interested in; 
+    ```
+      〰 Blockchain  
       〰 NFT   
       〰 Metaverse   
       〰 Game Industry   
-      
+    ```      
  - 🔭 Most of my work is in private.  
 
 ### Spotify Playing 🎧
