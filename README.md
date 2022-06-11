@@ -7,16 +7,16 @@
 
 - 🥅 I am working with;  
   ```
-      〰 Node.js  
-      〰 ASP .Net Core  
-      〰 Azure  
+     〰 Node.js  
+     〰 ASP .Net Core  
+     〰 Azure  
   ```    
  - 🥅 I am interested in; 
     ```
-      〰 Blockchain  
-      〰 NFT   
-      〰 Metaverse   
-      〰 Game Industry   
+       〰 Blockchain  
+       〰 NFT   
+       〰 Metaverse   
+       〰 Game Industry   
     ```      
  - 🔭 Most of my work is in private.  
 
