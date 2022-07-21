@@ -7,8 +7,10 @@
 
 - 🥅 I am working with;  
   ```
-     〰 Node.js  
-     〰 ASP .Net Core  
+     〰 .Net 6 
+     〰 MVC
+     〰 Web Api  
+     〰 Entity Framework  
      〰 Azure  
   ```    
  - 🥅 I am interested in; 
@@ -17,6 +19,8 @@
        〰 NFT   
        〰 Metaverse   
        〰 Game Industry   
+       〰 Architectural Design Patterns
+       〰 Microservices   
     ```      
  - 🔭 Most of my work is in private.  
 
