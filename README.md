@@ -12,6 +12,7 @@
      〰 Web Api  
      〰 Entity Framework  
      〰 Azure  
+     〰 Elasticsearch
   ```    
  - 🥅 I am interested in; 
     ```
