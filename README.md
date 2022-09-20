@@ -7,7 +7,7 @@
 
 - 🥅 I am working with;  
   ```
-     〰 .Net 6 
+     〰 .Net Core 
      〰 MVC
      〰 Web Api  
      〰 Entity Framework  
@@ -17,7 +17,6 @@
  - 🥅 I am interested in; 
     ```
        〰 Blockchain  
-       〰 NFT   
        〰 Metaverse   
        〰 Game Industry   
        〰 Architectural Design Patterns
