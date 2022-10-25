@@ -3,7 +3,7 @@
 <br />
 
 <a href="https://fatihemirhangungor.github.io/" target="_blank">Check my website!</a>
-## A fourth grade software engineering student from Turkey.
+## Software Engineer from Turkey.
 
 - 🥅 I am working with;  
   ```
@@ -12,15 +12,14 @@
      〰 Web Api  
      〰 Entity Framework  
      〰 Azure  
-     〰 Elasticsearch
+     〰 ElasticSearch
   ```    
  - 🥅 I am interested in; 
     ```
-       〰 Blockchain  
-       〰 Metaverse   
-       〰 Game Industry   
+       〰 Building Infrastructures  
        〰 Architectural Design Patterns
        〰 Microservices   
+       〰 Game Industry   
     ```      
  - 🔭 Most of my work is in private.  
 
