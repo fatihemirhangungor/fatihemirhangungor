@@ -1,19 +1,73 @@
-### Hi there, I'm [Emirhan!](https://fatihemirhangungor.github.io) 👋  
+<!--### Hi there, I'm [Emirhan!](https://fatihemirhangungor.github.io) 👋  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fatihemirhangungor.fatihemirhangungor)
 <br />
+-->
+
+<p align="center">
+  <h3 align="center">⌨️ Hi there, I'm Emirhan</h3>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+  
+<br>
+<br>
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%23-blue" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-.Net-purple" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/fatihemirhangungor/Movie-Restful-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=Movie-Restful-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Movie-Restful-API"></a>
+    <a href="https://github.com/fatihemirhangungor/RabbitMQ-MassTransit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=RabbitMQ-MassTransit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RabbitMQ-MassTransit"></a>
+    <a href="https://github.com/fatihemirhangungor/Bootcamp-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=Bootcamp-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bootcamp-API"></a>
+</p>
+
+<!--
+
+![C#](https://img.shields.io/badge/-C%23-blue)
+![.Net](https://img.shields.io/badge/-.Net-purple)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+-->
+  
+<!--
 
 <a href="https://fatihemirhangungor.github.io/" target="_blank">Check my website!</a>
-## Software Engineer from Turkey.
 
 - 🥅 I am working with;  
   ```
-     〰 .Net Core 
-     〰 MVC
-     〰 Web Api  
-     〰 Entity Framework  
+     〰 .Net   
      〰 Azure  
      〰 ElasticSearch  
-     〰 RabbitMQ
+     〰 Kibana
+     〰 RabbitMQ  
+     〰 Docker  
+     〰 Redis
   ```    
  - 🥅 I am interested in; 
     ```
@@ -21,8 +75,11 @@
        〰 Architectural Design Patterns
        〰 Microservices   
        〰 Game Industry   
-    ```      
- - 🔭 Most of my work is in private.  
+    ```
+
+-->
+  
+<!--  
 
 ### Spotify Playing 🎧
 
@@ -30,15 +87,23 @@
 
 
 
-### Connect with me:
-
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="fatihemirhangungor | LinkedIn" width="40px" />](https://www.linkedin.com/in/fatihemirhangungor/)
-
 <br />
 <br />
+  
+## ⚡Languages and Tools  
 
+![C#](https://img.shields.io/badge/-C%23-blue)
+![.Net](https://img.shields.io/badge/-.Net-purple)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-**Languages and Tools:**  
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <p><a href="https://azure.microsoft.com/tr-tr/features/azure-portal/">
 <img align="left" alt="Azure" width="40px" src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/azure.svg" />
@@ -47,6 +112,10 @@
 <p><a href="https://code.visualstudio.com/">
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a></p>
+
+-->
+
+<!--
 
 <p><a href="https://www.w3schools.com/html/">
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -57,16 +126,16 @@
 </a></p>
 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!--<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />-->
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/40/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="Unity" width="40px" src="https://github.com/fatihemirhangungor/fatihemirhangungor/blob/main/unity-tab-circle-white.png" />
-<!-- <img align="left" alt="java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> -->
-<br />  
+<img align="left" alt="java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+
+
+
 <br></br>
   
 <details>
@@ -84,6 +153,7 @@
 
 </details>
 
+-->
 
 <!--
 
