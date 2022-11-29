@@ -42,9 +42,9 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/fatihemirhangungor/Movie-Restful-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=Movie-Restful-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Movie-Restful-API"></a>
-    <a href="https://github.com/fatihemirhangungor/RabbitMQ-MassTransit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=RabbitMQ-MassTransit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RabbitMQ-MassTransit"></a>
-    <a href="https://github.com/fatihemirhangungor/Bootcamp-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=Bootcamp-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bootcamp-API"></a>
+    <a href="https://github.com/fatihemirhangungor/Movie-Restful-API"><img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=Movie-Restful-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Movie-Restful-API"></a>
+    <a href="https://github.com/fatihemirhangungor/RabbitMQ-MassTransit"><img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=RabbitMQ-MassTransit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RabbitMQ-MassTransit"></a>
+    <a href="https://github.com/fatihemirhangungor/Bootcamp-API"><img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihemirhangungor&repo=Bootcamp-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bootcamp-API"></a>
 </p>
 
 
