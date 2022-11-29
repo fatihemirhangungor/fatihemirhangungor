@@ -21,7 +21,7 @@
 <br>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-blue" />&nbsp;&nbsp;&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-.Net-purple" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" />&nbsp;&nbsp;&nbsp;
