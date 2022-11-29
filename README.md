@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a target="_blank" href="https://www.linkedin.com/in/fatihemirhangungor/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
   
 <br>
@@ -28,8 +28,15 @@
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
